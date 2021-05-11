@@ -3,10 +3,6 @@ body {
   background: lightgray;
 }
 
-section {
-  padding-top: 5vh;
-}
-
 :root {
   --main-color: white;
 }
@@ -36,7 +32,7 @@ section {
 }
 
 .custom-section {
-  padding-top: 5vh;
+  padding-top: 50vh;
 }
 
 .cb {
@@ -48,6 +44,7 @@ section {
 
 .card-text {
     font-family: 'New Tegomin';
+    text-align: center;
 }
 
 footer {
